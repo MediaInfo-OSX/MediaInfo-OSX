@@ -42,12 +42,6 @@ Workflow automation through command-line interface enables automated analysis an
 
 ---
 
-<p align="center">
-  <img src="https://eshop.macsales.com/blog/wp-content/uploads/2022/03/04details.jpg" alt="MediaInfo screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 MediaInfo distinguishes itself through detailed technical inspection beyond basic file properties. Unlike simple property viewers, comprehensive codec and metadata analysis serves professional media management requirements.
